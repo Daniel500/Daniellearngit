@@ -1,1 +1,2 @@
-Daniel 學習
+Git is a version control system.
+Git is free software.
